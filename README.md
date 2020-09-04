@@ -1,4 +1,4 @@
-# Vedio Player
+# Player
 
 播放mp4格式的视频文件（音视频同步）。
 
